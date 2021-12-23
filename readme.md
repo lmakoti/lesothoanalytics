@@ -4,7 +4,9 @@
 
 Please join me on my journey to build an analytics platform for Lesotho open data from world renowned sources such as the World Bank, World Health Organisation, OECD, WTO, CDC etc.
 
-![Facebook Badge](https://img.shields.io/badge/-lehlohonolomakoti-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://linkedin.com/in/lehlohonolomakoti)  ![Github Badge](https://img.shields.io/badge/-lehlohonolomakoti-000000?style=flat&labelColor=000000&logo=github&logoColor=white&link=https://github.com/lmakoti) ![Facebook Badge](https://img.shields.io/badge/-lmakoti-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://facebook.com/lmakoti) 
+[![Facebook Badge](https://img.shields.io/badge/-lehlohonolomakoti-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://linkedin.com/in/lehlohonolomakoti)][facebook]
+[![Github Badge](https://img.shields.io/badge/-lehlohonolomakoti-000000?style=flat&labelColor=000000&logo=github&logoColor=white&link=https://github.com/lmakoti)][github] 
+[![Facebook Badge](https://img.shields.io/badge/-lmakoti-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://facebook.com/lmakoti)][facebook]
 
 ### Context Description: Lesotho Development Overview
 
@@ -49,7 +51,8 @@ This work aims at creating data analysis visuals of Lesotho based on statistical
 <!-- Profile Links -->
 
 [linkedin]: https://www.linkedin.com/in/lehlohonolomakoti/
-
+[github]: https://www.github.com/lmakoti/
+[facebook]: https://www.facebook.com/lmakoti/
 <!-- Shields Profile Links -->
 
 [linkedinbadge]: https://img.shields.io/badge/-uditkumarchatterjee-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white
