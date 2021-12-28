@@ -1,14 +1,12 @@
 ## Hi there, I'm Lehlohonolo Makoti
 
-![](https://scontent-lhr8-1.xx.fbcdn.net/v/t1.6435-9/194198084_1486914028311553_9214423024039377787_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=e3f864&_nc_ohc=I6g5XJabjY0AX8yncrb&_nc_ht=scontent-lhr8-1.xx&oh=00_AT_AqkWDNZ1v_eQprog8Im-TBmP73lkuIs6mjzhypIThFQ&oe=61EB0665)
-
 Please join me on my journey to build an analytics platform for Lesotho open data from world renowned sources such as the World Bank, World Health Organisation, OECD, WTO, CDC etc.
 
 [![Facebook Badge](https://img.shields.io/badge/-lehlohonolomakoti-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://linkedin.com/in/lehlohonolomakoti)][facebook]
 [![Github Badge](https://img.shields.io/badge/-lehlohonolomakoti-000000?style=flat&labelColor=000000&logo=github&logoColor=white&link=https://github.com/lmakoti)][github] 
 [![Facebook Badge](https://img.shields.io/badge/-lmakoti-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://facebook.com/lmakoti)][facebook]
 
-### Context Description: Lesotho Development Overview
+### Context Description: Lesotho Development Overview  
 
 This work aims at creating data analysis visuals of Lesotho based on statistical data collected and documented by international organisations including UN subsidiaries. The goal is to create data stories using data on development indicators, this includes among others the Gender Inequality Index, Human Development Index etc. This document describes the structure of each data story, and it is meant to be amended as more learning is done on the subject of presenting development data.
 
