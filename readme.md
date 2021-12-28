@@ -6,8 +6,7 @@ Please join me on my journey to build an analytics platform for Lesotho open dat
 [![Github Badge](https://img.shields.io/badge/-lehlohonolomakoti-000000?style=flat&labelColor=000000&logo=github&logoColor=white&link=https://github.com/lmakoti)][github] 
 [![Facebook Badge](https://img.shields.io/badge/-lmakoti-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://facebook.com/lmakoti)][facebook]
 
-### Context Description: Lesotho Development Overview  
-
+### Context Description: Lesotho Development Overview
 This work aims at creating data analysis visuals of Lesotho based on statistical data collected and documented by international organisations including UN subsidiaries. The goal is to create data stories using data on development indicators, this includes among others the Gender Inequality Index, Human Development Index etc. This document describes the structure of each data story, and it is meant to be amended as more learning is done on the subject of presenting development data.
 
 ### Technology Stack/s
