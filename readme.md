@@ -7,11 +7,19 @@ Please join me on my journey to build an analytics platform for Lesotho open dat
 [![Facebook Badge](https://img.shields.io/badge/-lmakoti-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://facebook.com/lmakoti)][facebook]
 
 ### Context Description: Lesotho Development Overview
-This work aims at creating data analysis visuals of Lesotho based on statistical data collected and documented by international organisations including UN subsidiaries. The goal is to create data stories using data on development indicators, this includes among others the Gender Inequality Index, Human Development Index etc. This document describes the structure of each data story, and it is meant to be amended as more learning is done on the subject of presenting development data.
+This work aims at creating data analytics projects including data repositories, dashboards and reports based on Lesotho statistical data collected and documented by international organisations including UN divisions. 
 
-### Technology Stack/s
+The end goal is to create data stories using data on development indicators, this includes among others the Gender Inequality Index, Human Development Index, Youth Development Index etc. This document describes the <a href="#Data Story Template">structure</a> of each data story, and it is meant to be amended as more learning is done on the subject of presenting development data, it also outlines a set of <a href="#Project Hubs">projects</a> aimed at being the platforms on which all the data products are hosted and published.
 
-[![Power BI Badge](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&labelColor=212121&logo=powerbi)](#) [![Tableau Badge](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&labelColor=212121&logo=tableau)](#) [![SQL Server Badge](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&labelColor=212121&logo=Microsoft%20SQL%20Server&logoColor=CC2927)](#) [![Excel Badge](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=for-the-badge&labelColor=212121&logo=Microsoft%20Excel&logoColor=217346)](#)  [![Photoshop Badge](https://img.shields.io/badge/-Adobe%20Photoshop-161637?style=for-the-badge&labelColor=212121&logo=Adobe%20Photoshop&logoColor=white)](#)
+## Project Hubs
+
+### 1. Codepool Learn
+
+**Platform Link**: https://learn.codepool.tech/
+
+### 2. TheAfricanBookclub
+
+**Platform Link**: https://theafricanbookclub.com/
 
 ## Data Story Template
 
@@ -20,15 +28,7 @@ This work aims at creating data analysis visuals of Lesotho based on statistical
 3. Picture works
 4. Data visuals
 
-## Technology Stack
-
-1. PowerBI
-2. Tableau
-3. SQL Server
-4. Microsoft Excel (PowerQuery)
-5. Adobe Photoshop (Graphics)
-
-## GITHub Folder Structure
+## Data Story Folder Structure
 
 **Root**: lesothoanalytics, project file (.tbwx)
 
@@ -36,6 +36,22 @@ This work aims at creating data analysis visuals of Lesotho based on statistical
 
 - **data sources**(store associated data sources)
 - **resources**(store any pictures or graphics associated with building the dashboard)
+
+## Technology Stack
+
+1. PowerBI
+
+2. Tableau
+
+3. SQL Server
+
+4. Microsoft Excel (PowerQuery)
+
+5. Adobe Photoshop (Graphics)
+
+   
+
+[![Power BI Badge](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&labelColor=212121&logo=powerbi)](#) [![Tableau Badge](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&labelColor=212121&logo=tableau)](#) [![SQL Server Badge](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&labelColor=212121&logo=Microsoft%20SQL%20Server&logoColor=CC2927)](#) [![Excel Badge](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=for-the-badge&labelColor=212121&logo=Microsoft%20Excel&logoColor=217346)](#)  [![Photoshop Badge](https://img.shields.io/badge/-Adobe%20Photoshop-161637?style=for-the-badge&labelColor=212121&logo=Adobe%20Photoshop&logoColor=white)](#)
 
 ## Published Works
 
