@@ -1,10 +1,6 @@
-## Hi there, I'm Lehlohonolo Makoti
+## Lesotho Data Analytics Platforms
 
-Please join me on my journey to build an analytics platform for Lesotho open data from world renowned sources such as the World Bank, World Health Organisation, OECD, WTO, CDC etc.
-
-[![Facebook Badge](https://img.shields.io/badge/-lehlohonolomakoti-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://linkedin.com/in/lehlohonolomakoti)][facebook]
-[![Github Badge](https://img.shields.io/badge/-lehlohonolomakoti-000000?style=flat&labelColor=000000&logo=github&logoColor=white&link=https://github.com/lmakoti)][github] 
-[![Facebook Badge](https://img.shields.io/badge/-lmakoti-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://facebook.com/lmakoti)][facebook]
+Please join us on a journey to build data analytics platform for Lesotho open data from world renowned sources such as the World Bank, World Health Organisation, OECD, WTO, CDC etc.
 
 ### Context Description: Lesotho Development Overview
 This work aims at creating data analytics projects including data repositories, dashboards and reports based on Lesotho statistical data collected and documented by international organisations including UN divisions. 
@@ -17,9 +13,17 @@ The end goal is to create data stories using data on development indicators, thi
 
 **Platform Link**: https://learn.codepool.tech/
 
-### 2. TheAfricanBookclub
+**Project Synopsis**
+
+...
+
+### 2. TheAfricanBookclub.com
 
 **Platform Link**: https://theafricanbookclub.com/
+
+**Project Synopsis**
+
+...
 
 ## Data Story Template
 
@@ -59,16 +63,6 @@ The end goal is to create data stories using data on development indicators, thi
 2. **Climate Change CO2 Emissions** (COP26): https://public.tableau.com/app/profile/lehlohonolo.makoti/viz/COP26ClimateChangeConferenceLesothoContext/COP26ClimateChangeConferenceLesotho
 2. **Human Development Index**: https://public.tableau.com/app/profile/lehlohonolo.makoti/viz/HumanDevelopmentIndex-LesothoUNDP/Dashboard1 
 
-
-
-<!-- Profile Links -->
-
-[linkedin]: https://www.linkedin.com/in/lehlohonolomakoti/
-[github]: https://www.github.com/lmakoti/
-[facebook]: https://www.facebook.com/lmakoti/
-<!-- Shields Profile Links -->
-
-[linkedinbadge]: https://img.shields.io/badge/-uditkumarchatterjee-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white
 
 <!--Technology Stack-->
 
