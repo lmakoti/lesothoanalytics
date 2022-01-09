@@ -1,5 +1,6 @@
 ## Lesotho Data Analytics Platforms
 
+
 Please join us on a journey to build data analytics platform for Lesotho open data from world renowned sources such as the World Bank, World Health Organisation, OECD, WTO, CDC etc.
 
 ### Context Description: Lesotho Development Overview
@@ -7,10 +8,10 @@ This work aims at creating data analytics projects including data repositories, 
 
 The end goal is to create data stories using data on development indicators, this includes among others the Gender Inequality Index, Human Development Index, Youth Development Index etc. This document describes the <a href="#Data Story Template">structure</a> of each data story, and it is meant to be amended as more learning is done on the subject of presenting development data, it also outlines a set of <a href="#Project Hubs">projects</a> aimed at being the platforms on which all the data products are hosted and published.
 
+
 ## Project Hubs
 
 ### 1. Codepool Learn
-
 **Platform Link**: https://learn.codepool.tech/
 
 **Project Synopsis**
